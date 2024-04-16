@@ -2,7 +2,8 @@
     display: flex;     
     flex-direction: row;      
     height: 600px;
-    align-items: center;    }
+    align-items: center;    
+}
 .column-left, .column-center, .column-right{
     background-color: cornflowerblue;
     width: 300px;

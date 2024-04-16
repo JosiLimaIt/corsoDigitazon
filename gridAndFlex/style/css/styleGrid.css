@@ -1,11 +1,18 @@
-#grid-container{
-    display: flex;   
-    flex-flow: wrap;    
-    background-color: black
-}
-#flex-column{
-    background-color: cornflowerblue;
-    width: "33%";
+.flex-container{
+    display: flex;     
+    flex-direction: row;      
+    height: 600px;
     align-items: center;
+   
+   
+    
+
+}
+.column-left, .column-center, .column-right{
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 300px;
+    margin-inline: 80px;
+     
 
 }

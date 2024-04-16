@@ -1,0 +1,11 @@
+#grid-container{
+    display: flex;   
+    flex-flow: wrap; 
+   
+    background-color: black
+}
+#flex-column{
+    background-color: cornflowerblue;
+    width: "33%";
+
+}

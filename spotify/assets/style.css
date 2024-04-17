@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-container{
+    display: flex;     
+    flex-direction: row;  
+    background-color: rgb(26, 25, 25);    
+    
+    align-items: stretch;
+    
+}
+.column-left{
+   background-color: rgb(34, 33, 33);
+   width: 25%;
+
+}
+.column-center{
+    background-color: rgb(34, 33, 33);
+    width: 50%;
+ 
+ }
+ .column-right{
+    background-color: rgb(34, 33, 33);
+    width: 25%;
+ 
+ }
